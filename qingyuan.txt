@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+pillow
+scipy
+requests
+beautifulsoup4
+bs4
+lxml
+xlrd
